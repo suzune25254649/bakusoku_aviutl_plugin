@@ -1,0 +1,2 @@
+# bakusoku_aviutl_plugin
+aviutlを爆速化するプラグイン
